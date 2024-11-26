@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently studying in ICT and UCAS in china.
+- 🌱 I’m currently learning computer architecture, maching learning and LLM.
+- 👯 I’m looking to collaborate on AI computing system, both of software and hardware.
+
+
 <!--
 **Wendaoi/Wendaoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
